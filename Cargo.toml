@@ -1,0 +1,10 @@
+[package]
+name = "injection_process-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "injection_process-rust"
+path = "main.rs"
